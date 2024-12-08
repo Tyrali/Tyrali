@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Tyrali
-- 👀 I’m interested in building games in a virtual reality setting.
+- 👋 Hi, I’m Tyrali
+- 👀 I’m interested in building websites that are accessible for all.
 - 🌱 I’m currently learning HTML, CSS, and Javascript.
 - 💞️ I’m not looking to collaborate on anything right now, since I'm learning.
 - 📫 How to reach me @Aezyria on Twitter, or @Hello.hannahbear on Instagram.
